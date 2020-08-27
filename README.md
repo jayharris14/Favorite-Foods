@@ -1,4 +1,3 @@
-# Favorite-Foods
 <html>
 <body>
 <h1> Favorite Foods</h1>
